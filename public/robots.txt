@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naveedpash.github.io/sitemap.xml
