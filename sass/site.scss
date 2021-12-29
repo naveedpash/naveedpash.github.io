@@ -1,0 +1,16 @@
+@import "../themes/zola.386/static/css/bootstrap";
+@import "../themes/zola.386/static/css/bootstrap-responsive";
+@import "../themes/zola.386/static/css/style";
+
+// fixing font path
+@font-face {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./css/fonts/space_mono.ttf');
+    src: local('☺'), url('./css/fonts/space_mono.ttf') format('truetype');
+}
+
+.navmargin {
+	margin-top: 20px;
+}

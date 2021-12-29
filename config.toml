@@ -24,7 +24,7 @@ highlight_code = true
 # Put all your custom variables here
 author = 'Naveed Aman Pasha'
 year = 2021
-theme_color = '#000084'
+theme_color = '#000000'
 
 ### THIRD PARTY
 google_analytics = "G-S18PPRL7TN"
